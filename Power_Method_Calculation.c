@@ -1,3 +1,5 @@
+//Calculation of Eigen values and Eigen vectors of matrix using Power method
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
