@@ -1,4 +1,5 @@
 // Menu-driven programm to perform matrix algebra.
+//addition subtraction multiplication transpose on a matrix
 
 #include <stdio.h>
 #include <stdlib.h>
